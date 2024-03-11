@@ -1,0 +1,139 @@
+body{
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.top{
+    display: flex;
+    margin-left: 100px;
+}
+.banner{
+    display: flex;
+}
+h1{
+    font-size: 45px;
+}
+h2{
+    font-size: 35px;
+}
+h3{
+    font-size: 30px;
+}
+p{
+    color: rgb(87, 87, 87);
+    text-align: justify;
+}
+.side-border{
+    border-left: 5px solid red;
+    padding-left: 15px;
+}
+.orange-color{
+    color: orange;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(yellow, tomato);
+    margin: 40px 0px;
+    padding: 10px 40px;
+    border-radius: 10px;
+    
+}
+.scroll{
+    margin-left: 100px;
+}
+.half-width img{
+    width: 40%;
+    margin-left: 30%;
+}
+.half-width p{
+    margin-bottom: 30px;
+}
+.mission{
+    text-align: center;
+}
+.mission-2024{
+    display: flex;
+    margin: 0px 80px;
+    margin-bottom: 70px;
+}
+.my-mission-2024{
+    margin: 20px;
+    padding: 25px;
+    border-radius: 20px;
+}
+.my-mission-2024 img{
+    width: 40%;
+
+}
+.blue{
+    background-color: rgba(0, 0, 255, 0.251);
+}
+.sky{
+    background-color: rgb(135, 207, 235);
+}
+.tomato{
+    background-color: rgba(255, 99, 71, 0.437);
+}
+.codeing img{
+    margin-left: 100px;
+    width: 60%;
+}
+.circle{
+    background-image: url(images/shapes/shape-1.png);
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: 20%;
+    margin-bottom: 70px;
+}
+.Develop{
+    margin-left: 0px;
+    padding-right: 100px;
+
+}
+.projects img{
+    margin-left: 100px;
+    width: 65%;
+    padding-bottom: 60px;
+}
+.projects-global{
+    margin-left: 100px;
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 15%;
+    background-position: right bottom;
+}
+.Corona{
+    text-align: center;
+}
+.safe{
+    padding: 0px 100px;
+    margin-left: 80px;
+    padding-top: 30px;
+}
+
+.app img{
+    width: 75%;
+    background-image: url(images/shapes/shape-3.png), url(images/shapes/shape-3.png), url(images/shapes/shape-3.png);
+    background-position: left bottom, right center, left top;
+    background-repeat:  no-repeat, no-repeat;
+    background-size: 25%, 25%, 40%;
+    padding: 15px 0px 0x 15px;
+}
+.corona-app{
+    margin-left: 90px;
+    margin-bottom: 70px;
+}
+footer{
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    background-color: rgba(39, 41, 40, 0.814);
+    padding: 30px 0px;
+    color: white;
+}
+footer p{
+    text-align: center;
+    font-family: italic;
+    color: white;
+}
