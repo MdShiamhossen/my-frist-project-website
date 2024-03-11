@@ -28,15 +28,16 @@ p{
     padding-left: 15px;
 }
 .orange-color{
-    color: orange;
+    color: rgba(255, 132, 0, 0.78);
 }
 .button{
     text-decoration: none;
-    background-image: linear-gradient(yellow, tomato);
+    background-image: linear-gradient( rgb(189, 140, 4), rgba(255, 132, 0, 0.78), rgb(189, 140, 4));
     margin: 40px 0px;
     padding: 10px 40px;
     border-radius: 10px;
-    
+    color: white;
+    font-weight: 700;
 }
 .scroll{
     margin-left: 100px;
